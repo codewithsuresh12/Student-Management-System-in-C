@@ -1,0 +1,57 @@
+# Executable Files
+*.exe
+*.out
+*.app
+
+# Object Files
+*.o
+*.obj
+
+# Static Libraries
+*.a
+*.lib
+
+# Dynamic Libraries
+*.so
+*.dll
+*.dylib
+
+# Debug Files
+*.gdb
+*.pdb
+
+# Build Directories
+build/
+bin/
+dist/
+
+# IDE Files
+
+# Visual Studio Code
+.vscode/
+
+# CodeBlocks
+*.cbp
+*.layout
+*.depend
+
+# Dev-C++
+*.dev
+
+# CLion
+.idea/
+cmake-build-*/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
