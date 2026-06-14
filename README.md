@@ -6,14 +6,14 @@ A simple and efficient **Student Management System** developed in **C Programmin
 
 ## 📌 Features
 
-✅ Add Student Records
-✅ Display All Students
-✅ Search Student by Roll Number
-✅ Update Student Information
-✅ Delete Student Record
-✅ Save Data to File
-✅ Load Data from File Automatically
-✅ Menu Driven Interface
+✅ Add Student Records <br>
+✅ Display All Students<br>
+✅ Search Student by Roll Number<br>
+✅ Update Student Information<br>
+✅ Delete Student Record<br>
+✅ Save Data to File<br>
+✅ Load Data from File Automatically<br>
+✅ Menu Driven Interface<br>
 
 ---
 
@@ -143,19 +143,6 @@ Enter Choice:
 * Updating Records
 * Deleting Records
 * Menu Driven Programming
-
----
-
-## 🔮 Future Improvements
-
-* Password Authentication
-* GPA Calculation
-* Student Attendance System
-* Sorting by Marks
-* Ranking System
-* Binary File Storage
-* Dynamic Memory Allocation
-* Graphical User Interface (GUI)
 
 ---
 
